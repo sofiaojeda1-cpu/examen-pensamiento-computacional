@@ -1,5 +1,6 @@
 # Examen Pensamiento Computacional
- 
+
+ **Nombre del proyecto** Espejo interactivo
 **Alumna** Sofía Ojeda  
 
 ---
