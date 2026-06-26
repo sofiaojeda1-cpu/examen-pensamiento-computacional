@@ -69,3 +69,8 @@ Para probar el proyecto, se presionar las teclas **1, 2 o 3** en tu teclado:
 
 ## 8. Diagrama de flujo
 <img width="1024" height="1536" alt="Diagrama de flujo" src="https://github.com/user-attachments/assets/c7366b5e-d70a-446b-94b7-ccfa21fc2b35" />
+
+---
+
+## 8. Codigo p5.js
+https://editor.p5js.org/sofia.ojeda1/sketches/gPWIrdJCs
