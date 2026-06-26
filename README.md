@@ -50,11 +50,9 @@ Para probar el proyecto, se presionar las teclas **1, 2 o 3** en tu teclado:
 <img width="361" height="554" alt="images (2)" src="https://github.com/user-attachments/assets/69e22c7e-bbff-418e-8736-e0c5aad95d90" />
 <img width="547" height="365" alt="images (1)" src="https://github.com/user-attachments/assets/131c7f7a-5ef4-41b5-8f6d-afe8de72886a" />
 <img width="694" height="440" alt="images" src="https://github.com/user-attachments/assets/79ba0562-b7ca-44a9-a42e-46948022b7cf" />
-<img width="916" height="678" alt="Captura de pantalla 2026-06-26 010953" src="https://github.com/user-attachments/assets/c5fff727-08fc-453a-b4aa-f194fc52489c" />
-<img width="865" height="677" alt="Captura de pantalla 2026-06-26 010933" src="https://github.com/user-attachments/assets/60ace3b7-d881-43aa-93bc-6912c2171be0" />
-<img width="876" height="660" alt="Captura de pantalla 2026-06-26 010914" src="https://github.com/user-attachments/assets/e789ae9a-fb87-4b32-b456-64b2185371ca" />
-<img width="903" height="667" alt="Captura de pantalla 2026-06-25 220107" src="https://github.com/user-attachments/assets/cc22ba14-f771-4eb7-a4e0-4c4089650fc1" />
-<img width="840" height="622" alt="Captura de pantalla 2026-06-26 015233" src="https://github.com/user-attachments/assets/7ca4d15e-228b-4b7a-be87-1e15206fafca" />
+<img width="903" height="667" alt="Captura de pantalla 2026-06-25 220107" src="https://github.com/user-attachments/assets/d5a0c635-99c7-4a0d-9d58-add9793c5425" />
+
+
 
 ---
 
