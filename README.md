@@ -53,6 +53,7 @@ Para probar el proyecto, se presionar las teclas **1, 2 o 3** en tu teclado:
 <img width="903" height="667" alt="Captura de pantalla 2026-06-25 220107" src="https://github.com/user-attachments/assets/d5a0c635-99c7-4a0d-9d58-add9793c5425" />
 <img width="876" height="660" alt="Captura de pantalla 2026-06-26 010914" src="https://github.com/user-attachments/assets/9f503578-5ab7-4272-bf37-dbaa167032df" />
 <img width="865" height="677" alt="Captura de pantalla 2026-06-26 010933" src="https://github.com/user-attachments/assets/2e180c81-6065-4d66-9c07-db16a4775365" />
+<img width="916" height="678" alt="Captura de pantalla 2026-06-26 010953" src="https://github.com/user-attachments/assets/04531a55-5208-492f-888e-c110811e88f1" />
 
 
 
